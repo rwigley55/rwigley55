@@ -13,6 +13,7 @@
 - Portfolio Website [Link](https://rwigley55.github.io/reed-wigley-portfolio/) | [Repo](https://github.com/rwigley55/reed-wigley-portfolio)
 - Tip Calculator [Link](https://rwigley55.github.io/tip-calculator/) | [Repo](https://github.com/rwigley55/tip-calculator)
 - Age Calculator [Link](https://rwigley55.github.io/age-calculator/) | [Repo](https://github.com/rwigley55/age-calculator)
+- AI Health WordPress Theme (Work In Progress) [Repo](https://github.com/rwigley55/ai-health-wp-theme)
 
 ### Technologies
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
@@ -23,8 +24,10 @@
 [<img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024" style="padding-right:10px;" />][bootstrap]
 [<img align="left" alt="Node" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" style="padding-right:10px;" />][node]
 [<img align="left" alt="Express" width="26px" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" style="padding-right:10px;" />][express]
+[<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="padding-right:10px;" />][php]
 [<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" style="padding-right:10px;" />][react]
 [<img align="left" alt="Google Analytics" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/GAnalytics.svg/800px-GAnalytics.svg.png" style="padding-right:10px;" />][ga]
+[<img align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />][wp]
 
 [vscode]: https://code.visualstudio.com/
 [github]: https://git-scm.com/
@@ -34,5 +37,7 @@
 [bootstrap]: https://getbootstrap.com/
 [node]: https://nodejs.org/en/
 [express]: https://expressjs.com/
+[php]: https://www.php.net/
 [react]: https://react.dev/
 [ga]: https://analytics.google.com/
+[wp]: https://wordpress.org/

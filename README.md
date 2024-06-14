@@ -13,7 +13,8 @@
 - Portfolio Website [Link](https://rwigley55.github.io/reed-wigley-portfolio/) | [Repo](https://github.com/rwigley55/reed-wigley-portfolio)
 - Tip Calculator [Link](https://rwigley55.github.io/tip-calculator/) | [Repo](https://github.com/rwigley55/tip-calculator)
 - Age Calculator [Link](https://rwigley55.github.io/age-calculator/) | [Repo](https://github.com/rwigley55/age-calculator)
-- AI Health WordPress Theme [Link](https://health.reedwigley.io/) | [Repo](https://github.com/rwigley55/ai-health-wp-theme)
+- AI Health: Classic WordPress Theme [Link](https://health.reedwigley.io/) | [Repo](https://github.com/rwigley55/ai-health-wp-theme)
+- Creative Studio: Elementor Landing Page [Link](https://creative.reedwigley.io/)
 
 ### Technologies
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
